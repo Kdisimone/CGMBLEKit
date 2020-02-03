@@ -1,2 +1,2 @@
-github "LoopKit/LoopKit" ~> 3.0
-github "LoopKit/dexcom-share-client-swift" ~> 1.2
+github "kdisimone/LoopKit" "ken-autobolus"
+github "kdisimone/dexcom-share-client-swift" "ken-autobolus"
